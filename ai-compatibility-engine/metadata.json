@@ -1,0 +1,6 @@
+{
+  "name": "AI Compatibility Engine",
+  "description": "Technical compatibility verification platform that analyzes product specifications, normalizes canonical data, and runs deterministic compatibility checks before purchase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
